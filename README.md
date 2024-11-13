@@ -15,7 +15,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) <br/>
-![MYSQL](https://img.shields.io/badge/mysql-%00758f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MYSQL](https://img.shields.io/badge/mysql-%2338B2AC.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%2338B2AC.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Github](https://img.shields.io/badge/github-%2338B2AC.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%2338B2AC.svg?style=for-the-badge&logo=git&logoColor=white)
