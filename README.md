@@ -19,6 +19,4 @@ As a Computer Science graduate with a solid foundation in web development and pr
 <br />
 
 #
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RheillyAguilar)](https://github.com/RheillyAguilar/github-readme-stats)
-          
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RheillyAguilar&theme=gruvbox_light&show_icons=true)          
