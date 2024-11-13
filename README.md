@@ -15,10 +15,11 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) <br/>
+![MaterialUI](https://img.shields.io/badge/materialui-%231d3557.svg?style=for-the-badge&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/mysql-%23e36414.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23e63946.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Github](https://img.shields.io/badge/github-%23001d3d.svg?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23e76f51.svg?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23e76f51.svg?style=for-the-badge&logo=git&logoColor=white) <br/ >
 ![Vercel](https://img.shields.io/badge/vercel-%231d3557.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 
