@@ -1,7 +1,7 @@
 ## 👋🏼 Hi, I'm Rheilly Aguilar  
 
 👨🏼‍💻 Front-end Developer <br/>
-👨🏼‍🎓 Studied Computer Science at AMA Computer College <br/>
+👨🏼‍🎓 Graudate of Computer Science at AMA Computer College <br/>
 🗯️ Currently learning more about Web Development <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RheillyAguilar&theme=graywhite_light&show_icons=true) 
