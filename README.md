@@ -20,4 +20,5 @@ As a Computer Science graduate with a solid foundation in web development and pr
 
 #
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/RheillyAguilar/github-readme-stats)
           
