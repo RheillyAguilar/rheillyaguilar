@@ -1,8 +1,8 @@
 ## Hi 👋🏼, I'm Rheilly Aguilar  
-`Front-end Developer`
-👨🏼‍💻 Front-end Developer 
-👨🏼‍🎓 Studied Computer Science
-🗯️ Currently learning more about Web Development
+
+👨🏼‍💻 Front-end Developer <br/>
+👨🏼‍🎓 Studied Computer Science <br/>
+🗯️ Currently learning more about Web Development <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RheillyAguilar&theme=graywhite_light&show_icons=true) 
 
